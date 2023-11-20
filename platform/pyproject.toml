@@ -32,7 +32,7 @@ wikipedia = "^1.4.0"
 replicate = "^0.8.4"
 lanarky = "^0.7.15"
 tiktoken = "^0.4.0"
-grpcio = "^1.58.0"
+grpcio = "^1.59.3"
 pinecone-client = { version = "^2.2.4", extras = ["grpc"] }
 networkx = "^3.1"
 python-multipart = "^0.0.6"
