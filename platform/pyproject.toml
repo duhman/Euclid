@@ -18,7 +18,7 @@ uvicorn = { version = "^0.34.0", extras = ["standard"] }
 pydantic = { version = "<2.0", extras = ["dotenv"] }
 yarl = "^1.9.2"
 ujson = "^5.8.0"
-sqlalchemy = { version = "^2.0.21", extras = ["mypy", "asyncio"] }
+sqlalchemy = { version = "^2.0.38", extras = ["mypy", "asyncio"] }
 aiomysql = "^0.1.1"
 mysqlclient = "^2.2.0"
 httptools = "^0.6.4"
